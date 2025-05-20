@@ -31,7 +31,6 @@ Looking to connect with fellow developers, contribute to open-source projects, o
 
 - *Email:* abhishekrp19@example.com  
 - *LinkedIn:* [https://www.linkedin.com/in/abhishek-r-p-85717628a]  
-- *Portfolio:* [Your portfolio link, if available]  
 
 ---
 
