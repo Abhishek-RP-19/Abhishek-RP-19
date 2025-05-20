@@ -1,4 +1,4 @@
-# Hi there, I'm Abhishek-RP-19! 
+# Hi there, I'm Abhishek RP! 
 
 *Aspiring Software Developer | MERN Stack Enthusiast | Tech Explorer*
 
