@@ -30,7 +30,7 @@ Looking to connect with fellow developers, contribute to open-source projects, o
 ### 📫 Contact Me
 
 - *Email:* abhishekrp19@example.com  
-- *LinkedIn:* [Your LinkedIn link]  
+- *LinkedIn:* [https://www.linkedin.com/in/abhishek-r-p-85717628a]  
 - *Portfolio:* [Your portfolio link, if available]  
 
 ---
