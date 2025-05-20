@@ -8,7 +8,6 @@
 
 - Passionate about building efficient, scalable, and user-friendly web applications.
 - Focused on mastering the *MERN Stack* and exploring full-stack development.
-- Constantly sharpening my skills in *Data Structures & Algorithms*.
 - Strong interest in UI/UX design and creating intuitive digital experiences.
 
 ---
