@@ -1,4 +1,4 @@
-# Hi there, I'm Abhishek RP! 
+# Hi there, I'm Abhishek-RP-19! 
 
 *Aspiring Software Developer | MERN Stack Enthusiast | Tech Explorer*
 
@@ -15,9 +15,33 @@
 
 ### 🔭 Currently Learning
 
-- Advanced React & Node.js patterns  
-- Cloud fundamentals (AWS, Vercel, Netlify)  
-- Real-time web apps and API integrations  
+- JavaScript (ES6+), React.js & Node.js  
+- Git & GitHub for version control  
+- Responsive design and web accessibility  
+- Exploring backend technologies & databases  
+
+---
+
+### 🖥️ Technical Skills
+
+Responsive website design,  
+HTML, CSS, JavaScript, Bootstrap, Python, SQL, CSS Flexbox,  
+MongoDB, Node.js, React.js, Express.js
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+</p>
 
 ---
 
@@ -30,7 +54,8 @@ Looking to connect with fellow developers, contribute to open-source projects, o
 ### 📫 Contact Me
 
 - *Email:* abhishekrp19@example.com  
-- *LinkedIn:* [https://www.linkedin.com/in/abhishek-r-p-85717628a]  
+- *LinkedIn:* [Your LinkedIn link]  
+- *Portfolio:* [Your portfolio link, if available]  
 
 ---
 
@@ -47,4 +72,4 @@ I often sketch UI ideas before turning them into interactive web pages – creat
 
 ---
 
-“Code is like humor. When you have to explain it, it’s bad.” – Cory House
+“First, solve the problem. Then, write the code.” – John Johnson
