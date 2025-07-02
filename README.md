@@ -1,32 +1,33 @@
-# Hi there, I'm Abhishek RP! 
+# Hi there, I'm Abhishek R P! 👋
 
-*Aspiring Software Developer | MERN Stack Enthusiast | Tech Explorer*
+**Skilled Full-Stack Developer | MERN Stack Enthusiast | Actively Seeking Full-Time Opportunities**
 
 ---
 
 ### 👨‍💻 About Me
 
-- Passionate about building efficient, scalable, and user-friendly web applications.
-- Recently completed a comprehensive course on *HTML, CSS, JavaScript, Python, SQL, MERN Stack, Git, GitHub, and Bootstrap*.
-- Focused on mastering the *MERN Stack* and building full-stack applications.
-- Strong interest in UI/UX design and creating intuitive digital experiences.
+- Passionate about building efficient, scalable, and user-friendly web applications.  
+- Skilled in full-stack development with hands-on experience in the MERN Stack.  
+- Focused on writing clean, maintainable, and performance-optimized code.  
+- Committed to continuous learning and delivering real-world solutions.
 
 ---
 
-### 🔭 Currently Exploring
+### 🚀 Open to Work
 
-- Advanced React.js and Node.js concepts  
-- Backend development and RESTful APIs  
-- Deployment of full-stack applications on cloud platforms  
-- Building real-world projects to strengthen development skills  
+💼 **Actively looking for Full-Time Roles as a Full-Stack / Frontend Developer (Remote or On-site)**  
+📍 Open to opportunities across India and Remote positions  
+📢 Feel free to reach out if you have a role that fits my profile!
 
 ---
 
-### 🖥️ Technical Skills
+### ✅ Skills & Technologies
 
-Responsive Web Design,  
-HTML, CSS, JavaScript, Bootstrap, Python, SQL, Flexbox,  
-MongoDB, Node.js, React.js, Express.js, Git, GitHub
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), Bootstrap, Responsive Design, Flexbox  
+- **Backend:** Node.js, Express.js, MongoDB, SQL  
+- **Programming:** Python  
+- **Tools:** Git, GitHub, VS Code  
+- **Frameworks:** React.js  
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
@@ -45,23 +46,32 @@ MongoDB, Node.js, React.js, Express.js, Git, GitHub
 
 ---
 
+### 🔭 Currently Exploring
+
+- Advanced React.js, Node.js concepts  
+- REST APIs & Express.js middleware  
+- Backend integrations with MongoDB  
+- Deployment using Netlify, Render & Vercel  
+
+---
+
 ### 🤝 Let's Connect
 
-Actively seeking full-time opportunities in web development and software engineering.  
-Open to junior developer roles where I can apply my skills and grow with a passionate team.
+Excited to collaborate with developers and connect with recruiters and tech teams.  
+Looking for full-time roles only — ready to contribute and grow in a fast-paced development environment.
 
 ---
 
 ### 📫 Contact Me
 
-- *Email:* abhishekrp2208@gmail.com  
-- *LinkedIn:* [https://www.linkedin.com/in/abhishek-r-p-85717628a](https://www.linkedin.com/in/abhishek-r-p-85717628a)  
+- **Email:** abhishekrp2208@gmail.com  
+- **LinkedIn:** [https://www.linkedin.com/in/abhishek-r-p-85717628a](https://www.linkedin.com/in/abhishek-r-p-85717628a)
 
 ---
 
 ### ⚡ Fun Fact
 
-I often sketch UI ideas before turning them into interactive web pages – creativity meets code!
+I enjoy turning real-world problems into working web solutions — nothing feels better than seeing your code make an impact!
 
 ---
 
@@ -72,4 +82,4 @@ I often sketch UI ideas before turning them into interactive web pages – creat
 
 ---
 
-> “First, solve the problem. Then, write the code.” – John Johnson
+> *“You might not think that programmers are artists, but programming is an extremely creative profession.” – Donald Knuth*
