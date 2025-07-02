@@ -7,25 +7,26 @@
 ### 👨‍💻 About Me
 
 - Passionate about building efficient, scalable, and user-friendly web applications.
-- Focused on mastering the *MERN Stack* and exploring full-stack development.
+- Recently completed a comprehensive course on *HTML, CSS, JavaScript, Python, SQL, MERN Stack, Git, GitHub, and Bootstrap*.
+- Focused on mastering the *MERN Stack* and building full-stack applications.
 - Strong interest in UI/UX design and creating intuitive digital experiences.
 
 ---
 
-### 🔭 Currently Learning
+### 🔭 Currently Exploring
 
-- JavaScript (ES6+), React.js & Node.js  
-- Git & GitHub for version control  
-- Responsive design and web accessibility  
-- Exploring backend technologies & databases  
+- Advanced React.js and Node.js concepts  
+- Backend development and RESTful APIs  
+- Deployment of full-stack applications on cloud platforms  
+- Building real-world projects to strengthen development skills  
 
 ---
 
 ### 🖥️ Technical Skills
 
-Responsive website design,  
-HTML, CSS, JavaScript, Bootstrap, Python, SQL, CSS Flexbox,  
-MongoDB, Node.js, React.js, Express.js, Git and GitHub.
+Responsive Web Design,  
+HTML, CSS, JavaScript, Bootstrap, Python, SQL, Flexbox,  
+MongoDB, Node.js, React.js, Express.js, Git, GitHub
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
@@ -44,16 +45,17 @@ MongoDB, Node.js, React.js, Express.js, Git and GitHub.
 
 ---
 
-### 🤝 Let's Collaborate
+### 🤝 Let's Connect
 
-Looking to connect with fellow developers, contribute to open-source projects, or work on innovative ideas. Always open to internships or learning opportunities.
+Actively seeking full-time opportunities in web development and software engineering.  
+Open to junior developer roles where I can apply my skills and grow with a passionate team.
 
 ---
 
 ### 📫 Contact Me
 
-- *Email:* abhishekrp19@example.com  
-- *LinkedIn:* [https://www.linkedin.com/in/abhishek-r-p-85717628a]  
+- *Email:* abhishekrp2208@gmail.com  
+- *LinkedIn:* [https://www.linkedin.com/in/abhishek-r-p-85717628a](https://www.linkedin.com/in/abhishek-r-p-85717628a)  
 
 ---
 
@@ -70,4 +72,4 @@ I often sketch UI ideas before turning them into interactive web pages – creat
 
 ---
 
-“First, solve the problem. Then, write the code.” – John Johnson
+> “First, solve the problem. Then, write the code.” – John Johnson
